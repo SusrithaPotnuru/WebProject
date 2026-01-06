@@ -1,2 +1,2 @@
-# WebProject
+# SpellChecker
 WebProject Description
